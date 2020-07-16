@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Blake 👋
+
+——————————————————————————————————-
 
 I'm a recent University of Florida 🌎 Cum Laude | Geoscience Graduate with a passion for technology and the natural world. I specialize in JavaScript and have trained with React, Node, Express.js, MongoDB, GIS products, D3.js, Python, SQL, GraphQL, HTML, CSS, Git/Github, WordPress, Microsoft Office, Microsoft Azure, Google Suite, Google Analytics, and Adobe Suite. I have a strong foundation in software and web development, graphic design, geographic information systems analysis, and the geological sciences.
 
