@@ -6,7 +6,7 @@ Take a look at my portfolio, and let's get in touch! ➡️ https://bstefansen.g
 
 ## 📫 How to reach me:
 - 📧 bstefansen11@gmail.com
-- 📜 https://www.linkedin.com/in/blake-stefansen/
+- 📜 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
 
 <!--
 **bstefansen/bstefansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
