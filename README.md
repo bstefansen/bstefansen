@@ -4,6 +4,10 @@ I'm a recent University of Florida 🌎 Cum Laude Geoscience Graduate with a pas
 
 Take a look at my portfolio, and let's get in touch! ➡️ https://bstefansen.github.io/Portfolio/ 
 
+## 📫 How to reach me:
+- 📧 bstefansen11@gmail.com
+- 📜 https://www.linkedin.com/in/blake-stefansen/
+
 <!--
 **bstefansen/bstefansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
