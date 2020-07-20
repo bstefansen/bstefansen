@@ -7,7 +7,7 @@ Take a look at my portfolio, and let's get in touch! ➡️ https://bstefansen.g
 🔥 Currently studying for the Azure Developer Associate certification | Progress: 25% 🔥
 
 ## 📫 How to reach me:
-- 📜 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
 - 📧 bstefansen11@gmail.com
 
 <!--
