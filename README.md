@@ -4,8 +4,6 @@ I'm a recent University of Florida 🌎 Cum Laude Geoscience Graduate with a pas
 
 Take a look at my portfolio, and let's get in touch! ➡️ https://blakesportfolio.netlify.app/
 
-🔥 Currently studying for the Azure Developer Associate certification | Progress: 95% 🔥
-
 ## 📫 How to reach me:
 - 💼 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
 - 📧 bstefansen11@gmail.com
