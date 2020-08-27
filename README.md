@@ -1,8 +1,6 @@
 # Hi there! My name is Blake 👋
 
-I'm a recent University of Florida Cum Laude Geoscience 🌎 Graduate with a passion for technology and the natural world. I'm a certified Microsoft Azure Developer Associate and have an undergraduate certificate in Geospatial Information Analysis. I currently specialize in JavaScript and Python and have a strong foundation in software development, graphic design, GIS, data analysis and visualization, and the geological sciences.
-
-Take a look at my portfolio, and let's get in touch! ➡️ https://blakesportfolio.netlify.app/
+I'm a recent University of Florida cum laude geoscience graduate with demonstrated experience in GIS and software development. I'm a certified Microsoft Azure Developer Associate and have an undergraduate certificate in Geospatial Information Analysis. I currently specialize in JavaScript and Python and have a strong foundation in software development, geospatial information analysis, data analysis and visualization, and the geological sciences.
 
 ## 📫 How to reach me:
 - 💼 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
