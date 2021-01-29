@@ -4,9 +4,9 @@ I'm a University of Florida cum laude geoscience graduate with demonstrated expe
 
 
 ## 📫 How to reach me:
-- 💼 <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
-- 📖 <a href="https://blakesportfolio.netlify.app/" target="_blank">Portfolio</a>
-- 📧 bstefansen11@gmail.com
+- 💼  <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
+- 📖  <a href="https://blakesportfolio.netlify.app/" target="_blank">Portfolio</a>
+- 📧  bstefansen11@gmail.com
 
 <!--
 **bstefansen/bstefansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
