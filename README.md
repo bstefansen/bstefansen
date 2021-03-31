@@ -1,6 +1,6 @@
 # Hi there! I'm Blake 👋
 
-I'm a geoscience professional with experience in GIS and data engineering. I currently specialize in JavaScript and Python and have a strong foundation in programming, data pipelines, data visualization, and the geosciences.
+I'm a geoscience professional with experience in GIS and data engineering. I currently specialize in JavaScript and Python and have a strong foundation in programming, data pipelines, data visualization, and database administration.
 
 
 ## 📫 How to reach me:
