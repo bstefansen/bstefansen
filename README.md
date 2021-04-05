@@ -4,8 +4,8 @@ I'm a geoscience professional with experience in GIS and data science. I current
 
 
 ## 📫 How to reach me:
-- 💼  <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank">LinkedIn</a>
-- 📖  <a href="https://blakesportfolio.netlify.app/" target="_blank">Portfolio</a>
+- 💼   <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank"> LinkedIn</a>
+- 📖   <a href="https://blakesportfolio.netlify.app/" target="_blank"> Portfolio</a>
 <!-- - 📧  bstefansen11@gmail.com -->
 
 <!--
