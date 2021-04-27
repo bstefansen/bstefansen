@@ -1,6 +1,6 @@
 # Hi there! I'm Blake 👋
 
-I'm a geoscience professional with experience in GIS and data science. I currently specialize in Bash, JavaScript, Python, and PostgreSQL. I have a strong foundation in programming, data pipelines, data visualization, and database administration.
+I'm a geoscience professional with experience in GIS and data science. I currently specialize in Bash, JavaScript, Python, and PostgreSQL. I have a strong foundation in data pipelines, data visualization, and database administration.
 
 
 ## 📫 How to reach me:
