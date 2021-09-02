@@ -8,6 +8,7 @@ I'm a geoscience professional with experience in GIS and geospatial data. I enjo
 <!-- Apache Spark -->
 <!--<img src="https://img.shields.io/badge/-Apache%20Spark-ffffff?style=flat-square&logo=apachespark&logoColor=orange">-->
 
+<!-- AWS Redshift -->
 
 <!-- Tensorflow -->
 <!-- <img src="https://img.shields.io/badge/-Tensorflow-f5790a?style=flat-square&logo=tensorflow&logoColor=white"> -->
