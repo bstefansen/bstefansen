@@ -12,7 +12,8 @@ I'm a geoscience professional with experience in GIS and geospatial data. I enjo
 
 
 
-
+<!-- QGIS -->
+<!--<img src="https://img.shields.io/badge/-QGIS-ffffff?style=flat-square&logo=qgis&logoColor=green">-->
 
 <!-- Docker -->
 <!--<img src="https://img.shields.io/badge/-Docker-0066ff?style=flat-square&logo=docker&logoColor=white">
