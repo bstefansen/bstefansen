@@ -8,7 +8,7 @@ I'm a geoscience professional with experience in GIS and geospatial data. I enjo
 
 
 <!-- Things to Learn -->
-<!-- Apache spark, docker, matplotlib, pandas, geopandas, numpy, shapely, osgeo, postgis, apache airflow, tensorflow, GDAL/OGR -->
+<!-- Apache spark, docker, pandas, numpy,  postgis, apache airflow, tensorflow, GDAL/OGR -->
 
 
 
