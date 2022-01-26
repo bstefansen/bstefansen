@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30"> Hi there! I'm Blake 
 
-I'm a geoscience professional with experience in GIS and geospatial data. I enjoy working with ETL pipelines, databases, and AWS.
+I'm a geoscience professional with experience in GIS and geospatial data. I enjoy working with data pipelines, databases, and AWS.
 
 ## Things I code with 💻
 <!--<img src="https://img.shields.io/badge/-Reactjs-00b2ff?style=flat-square&logo=react&logoColor=white">-->
