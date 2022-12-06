@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30"> Hi there! I'm Blake 
 
-I'm a technology professional with experience in DevOps and Data Engineering. I enjoy working with Vim, Docker, and AWS.
+I'm an AWS certified technology professional with experience in DevOps and Data Engineering. I enjoy working with NeoVim, Docker, and AWS. I currently specializes in Python, and have developed multiple ETL pipelines using REST APIs for cloud-based mapping platforms.
 
 ## Things I Use 💻
 <!--<img src="https://img.shields.io/badge/-Reactjs-00b2ff?style=flat-square&logo=react&logoColor=white">-->
