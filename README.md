@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://www.pexels.com/photo/black-and-white-mountain-valley-forest-7017385/"><img src="https://static.vecteezy.com/system/resources/thumbnails/008/277/941/small/illustration-pine-landscape-mountain-nature-forest-background-pine-tree-free-vector.jpg" alt="Banner image"></a>
   <h1 align="center"><img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30"> Hi there! I'm Blake</h1>
 </p>
 
