@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30">
-  <h1 align="center">Hi there! I'm Blake</h1>
+  <a href="https://www.pexels.com/photo/black-and-white-mountain-valley-forest-7017385/"><img src="https://static.vecteezy.com/system/resources/thumbnails/008/277/941/small/illustration-pine-landscape-mountain-nature-forest-background-pine-tree-free-vector.jpg" alt="Banner image"></a>
+  <h1 align="center"><img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30"> Hi there! I'm Blake</h1>
 </p>
 
 <p align="center">As an AWS certified technology professional with extensive experience in DevOps and Data Engineering, I am an outstanding candidate for any organization seeking a highly skilled individual in this field. My passion for working with cutting-edge technologies such as Neovim, Docker, and AWS is evident in my proven track record of success. I specialize in Python and have developed numerous highly successful ETL and CI/CD pipelines for cloud-based mapping platforms, making me a valuable asset for any organization looking to streamline their data management and delivery processes. My dedication, expertise, and experience make me an ideal candidate for those seeking to enhance their technological capabilities and drive innovation forward.</p>
