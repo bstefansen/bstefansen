@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <h1 align="center"><img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="30"> Hi there! I'm Blake</h1>
-</p>
+</p> -->
 
-<p align="center">As an AWS certified technology professional with extensive experience in DevOps and Data Engineering, I am an outstanding candidate for any organization seeking a highly skilled individual in this field. My passion for working with cutting-edge technologies such as Neovim, Docker, and AWS is evident in my proven track record of success. I specialize in Python and have developed numerous highly successful ETL and CI/CD pipelines for cloud-based mapping platforms, making me a valuable asset for any organization looking to streamline their data management and delivery processes. My dedication, expertise, and experience make me an ideal candidate for those seeking to enhance their technological capabilities and drive innovation forward.</p>
+<!-- <p align="center">As an AWS certified technology professional with extensive experience in DevOps and Data Engineering, I am an outstanding candidate for any organization seeking a highly skilled individual in this field. My passion for working with cutting-edge technologies such as Neovim, Docker, and AWS is evident in my proven track record of success. I specialize in Python and have developed numerous highly successful ETL and CI/CD pipelines for cloud-based mapping platforms, making me a valuable asset for any organization looking to streamline their data management and delivery processes. My dedication, expertise, and experience make me an ideal candidate for those seeking to enhance their technological capabilities and drive innovation forward.</p> -->
 
 <h2 align="center">Things I Use 💻</h2>
 <p align="center">
